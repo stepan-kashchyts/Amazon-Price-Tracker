@@ -19,9 +19,7 @@ To work with this project, you will need the following Python libraries:
 
 Install them using pip:
 
-bash
-
-pip install beautifulsoup4 requests pandas
+    pip install beautifulsoup4 requests pandas
 
 Setup
 
